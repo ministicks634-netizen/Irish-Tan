@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Poppins', system-ui, -apple-system, sans-serif;
+  --color-sand: #f7f2eb;
+  --color-sand-card: #f1ece5;
+  --color-sand-border: #e3ded6;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f7f2eb;
+  color: #000000;
+}

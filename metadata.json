@@ -1,0 +1,6 @@
+{
+  "name": "Irish Tan | Rosemount's Premier Tropical Tanning & Wellness Salon",
+  "description": "Experience tropical luxury at Irish Tan in Rosemount, MN. State-of-the-art KBL tanning beds, full-body red light therapy, hybrid sunbeds, and premium tanning lotions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
